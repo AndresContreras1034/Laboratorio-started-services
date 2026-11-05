@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">started services</string>
+    <string name="question">What is the secret of comedy?</string>
+    <string name="response">Timing!</string>
+    <string name="grade_title">Taller calificado</string>
+    <string name="grade_message">Tu taller de Servicios fue calificado: 4.5</string>
+    <string name="btn_grade">Calificar taller (notificar al estudiante)</string>
+</resources>
